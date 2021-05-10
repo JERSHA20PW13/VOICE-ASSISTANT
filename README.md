@@ -40,5 +40,5 @@ Hey Tasha!
 This python script will be tuned to interact with the person once they click the mic button and say “Hey Tasha”. She will respond to or greet the person and she is all theirs for them to get their job done. It’s that easy. The job can be a simple command to perform or a question to be answered and this project assures a pleasant interaction with Tasha.
 
 Team Members: 
-20PW13 - Jersha Heartly X
+20PW13 - Jersha Heartly X, 
 20PW38 - Tamjid L
